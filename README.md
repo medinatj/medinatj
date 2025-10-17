@@ -46,6 +46,16 @@ Results-driven and process-oriented Senior Site Reliability Engineer with deep e
 
 ---
 
+### 💼 Career Timeline
+- **Senior Site Reliability Engineer** – *Royal Caribbean Group* (2025–Present)  
+  Delivering platform reliability, automation, and observability solutions for large-scale web and digital systems.  
+- **Senior Platform Technical Analyst (AEM)** – *Manulife Data Services, Inc.* (2021–2025)  
+  Focused on AEM platform reliability, deployment automation, and DevSecOps initiatives under GWAM Technology.  
+- **Web Applications Development Supervisor** – *CE-Logic, Inc.* (2018–2021)  
+  Led development of academic e-learning systems and managed project rollouts nationwide.  
+- **Web Developer / Technical Support Specialist** – *CE-Logic, Inc.* (2016–2018)  
+  Designed, developed, and supported KITE E-Learning applications for universities.
+
 ### 🧾 Certifications & Training
 - **ITIL Foundation Level (ITIL 4)** – AXELOS Global Best Practice  
 - **Microsoft Power Platform Foundation** – Manulife Data Services, Inc.  
