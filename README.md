@@ -2,7 +2,11 @@
 
 **Senior Site Reliability Engineer | Platform Engineer | AEM Specialist**
 
-Results-driven and process-oriented Senior Site Reliability Engineer with deep expertise in automation, release management, and Adobe Experience Manager (AEM). Known for leading cross-functional initiatives that streamline deployment processes, enhance system reliability, and ensure alignment with enterprise standards. Proven ability to balance hands-on technical execution with strategic collaboration across platform, release engineering, and application teams.
+Results-driven and process-oriented Senior Site Reliability Engineer (SRE) with deep expertise in automation, observability, and Adobe Experience Manager (AEM). I focus on building reliable, scalable, and maintainable systems that enhance platform stability and performance across environments.
+
+Recognized for driving cross-functional collaboration and implementing data-informed solutions, I help organizations strengthen resilience, improve mean time to recovery, and reduce operational risks. My work bridges engineering, operations, and leadership—transforming complex challenges into sustainable, automated solutions that support business continuity and innovation.
+
+With hands-on experience in infrastructure automation, performance tuning, monitoring, and incident response, I’m passionate about continuous improvement, reducing toil, and empowering teams through a strong SRE and DevOps culture of reliability, efficiency, and shared ownership.
 
 ---
 
