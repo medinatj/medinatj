@@ -103,7 +103,7 @@ AWS • Azure • Docker • Kubernetes (EKS) • Redis
 New Relic • Splunk Cloud • Splunk Observability • AppDynamics • AWS CloudWatch • PagerDuty  
 
 ### Enterprise Tooling
-ServiceNow • Jira • Confluence • GitHub Actions • Salesforce  
+ServiceNow • Jira • Confluence • GitHub • Salesforce  
 
 ---
 
